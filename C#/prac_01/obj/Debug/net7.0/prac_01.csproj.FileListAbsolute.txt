@@ -1,0 +1,14 @@
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.AssemblyInfoInputs.cache
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.AssemblyInfo.cs
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.csproj.CoreCompileInputs.cache
+C:\Users\Crn96\Desktop\C#\prac_01\bin\Debug\net7.0\prac_01.exe
+C:\Users\Crn96\Desktop\C#\prac_01\bin\Debug\net7.0\prac_01.deps.json
+C:\Users\Crn96\Desktop\C#\prac_01\bin\Debug\net7.0\prac_01.runtimeconfig.json
+C:\Users\Crn96\Desktop\C#\prac_01\bin\Debug\net7.0\prac_01.dll
+C:\Users\Crn96\Desktop\C#\prac_01\bin\Debug\net7.0\prac_01.pdb
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.dll
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\refint\prac_01.dll
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.pdb
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\prac_01.genruntimeconfig.cache
+C:\Users\Crn96\Desktop\C#\prac_01\obj\Debug\net7.0\ref\prac_01.dll

@@ -1,0 +1,10 @@
+D:\CSharp\FormsApp\FormFour\FormFour\bin\Debug\FormFour.exe.config
+D:\CSharp\FormsApp\FormFour\FormFour\bin\Debug\FormFour.exe
+D:\CSharp\FormsApp\FormFour\FormFour\bin\Debug\FormFour.pdb
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.csproj.AssemblyReference.cache
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.Form1.resources
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.Properties.Resources.resources
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.csproj.GenerateResource.cache
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.csproj.CoreCompileInputs.cache
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.exe
+D:\CSharp\FormsApp\FormFour\FormFour\obj\Debug\FormFour.pdb

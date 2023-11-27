@@ -1,0 +1,17 @@
+D:\CSharp\FormsApp\AppTwo\AppTwo\bin\Debug\net7.0-windows\AppTwo.exe
+D:\CSharp\FormsApp\AppTwo\AppTwo\bin\Debug\net7.0-windows\AppTwo.deps.json
+D:\CSharp\FormsApp\AppTwo\AppTwo\bin\Debug\net7.0-windows\AppTwo.runtimeconfig.json
+D:\CSharp\FormsApp\AppTwo\AppTwo\bin\Debug\net7.0-windows\AppTwo.dll
+D:\CSharp\FormsApp\AppTwo\AppTwo\bin\Debug\net7.0-windows\AppTwo.pdb
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.Form1.resources
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.Properties.Resources.resources
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.csproj.GenerateResource.cache
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.AssemblyInfoInputs.cache
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.AssemblyInfo.cs
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.csproj.CoreCompileInputs.cache
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.dll
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\refint\AppTwo.dll
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.pdb
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\AppTwo.genruntimeconfig.cache
+D:\CSharp\FormsApp\AppTwo\AppTwo\obj\Debug\net7.0-windows\ref\AppTwo.dll

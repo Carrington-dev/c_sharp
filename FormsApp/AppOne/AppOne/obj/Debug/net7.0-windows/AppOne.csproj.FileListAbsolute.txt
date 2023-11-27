@@ -1,0 +1,17 @@
+D:\CSharp\FormsApp\AppOne\AppOne\bin\Debug\net7.0-windows\AppOne.exe
+D:\CSharp\FormsApp\AppOne\AppOne\bin\Debug\net7.0-windows\AppOne.deps.json
+D:\CSharp\FormsApp\AppOne\AppOne\bin\Debug\net7.0-windows\AppOne.runtimeconfig.json
+D:\CSharp\FormsApp\AppOne\AppOne\bin\Debug\net7.0-windows\AppOne.dll
+D:\CSharp\FormsApp\AppOne\AppOne\bin\Debug\net7.0-windows\AppOne.pdb
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.eContact.resources
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.Properties.Resources.resources
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.csproj.GenerateResource.cache
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.AssemblyInfoInputs.cache
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.AssemblyInfo.cs
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.csproj.CoreCompileInputs.cache
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.dll
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\refint\AppOne.dll
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.pdb
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\AppOne.genruntimeconfig.cache
+D:\CSharp\FormsApp\AppOne\AppOne\obj\Debug\net7.0-windows\ref\AppOne.dll
